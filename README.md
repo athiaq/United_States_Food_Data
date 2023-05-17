@@ -1,4 +1,4 @@
-# project-1-group-4
+# United States Food Data
 
 As consultants from United States of Food Data, our group was interested in investigating national trends in sales and consumption of various food and beverage products across all regions of the US in order to inform and improve decision-making for policy-makers. 
 
